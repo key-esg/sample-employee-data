@@ -28,5 +28,3 @@ const processFile = async () => {
 };
 
 processFile();
-
-console.log("ghello2");
